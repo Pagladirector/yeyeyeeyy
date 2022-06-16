@@ -1,0 +1,4 @@
+@media print {
+  @page { margin: 0px; }
+  body { margin: 1.6cm; }
+}
